@@ -1,0 +1,17 @@
+@import url("reset.css");
+h1{color: red;
+}
+h2 {color: brown;}
+a {color: blue;
+}
+p{color: rgb(250, 7, 250);
+}
+.text{
+    color: darksalmon;
+}
+#some-id {
+    color: black;
+}
+.end{
+    color: bisque;
+}
